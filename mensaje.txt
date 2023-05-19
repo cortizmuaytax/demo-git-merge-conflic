@@ -3,7 +3,7 @@ Hola mundo de caramelo
 adios venus
 
 
-linea 1
-linea2
+linea x
+linea y
 
 linea10
