@@ -3,7 +3,9 @@ Hola mundo de fresa
 adios venus
 
 
-linea 40
-linea 50
+
+linea x
+linea y
+
 
 linea10
